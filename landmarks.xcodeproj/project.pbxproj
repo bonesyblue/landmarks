@@ -64,6 +64,7 @@
 		7CC527C22A3E562E00AB6F47 /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CC527C12A3E562E00AB6F47 /* LandmarkDetail.swift */; };
 		7CC527C42A3E5C6200AB6F47 /* NotificationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CC527C32A3E5C6200AB6F47 /* NotificationView.swift */; };
 		7CC527C62A3E5DCC00AB6F47 /* NotificationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CC527C52A3E5DCC00AB6F47 /* NotificationController.swift */; };
+		7CC527C82A3E5F7A00AB6F47 /* PushNotificationPayload.apns in Resources */ = {isa = PBXBuildFile; fileRef = 7CC527C72A3E5F7A00AB6F47 /* PushNotificationPayload.apns */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -133,6 +134,7 @@
 		7CC527C12A3E562E00AB6F47 /* LandmarkDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
 		7CC527C32A3E5C6200AB6F47 /* NotificationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationView.swift; sourceTree = "<group>"; };
 		7CC527C52A3E5DCC00AB6F47 /* NotificationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationController.swift; sourceTree = "<group>"; };
+		7CC527C72A3E5F7A00AB6F47 /* PushNotificationPayload.apns */ = {isa = PBXFileReference; lastKnownFileType = text; path = PushNotificationPayload.apns; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -344,6 +346,7 @@
 				7CC527C12A3E562E00AB6F47 /* LandmarkDetail.swift */,
 				7CC527C32A3E5C6200AB6F47 /* NotificationView.swift */,
 				7CC527C52A3E5DCC00AB6F47 /* NotificationController.swift */,
+				7CC527C72A3E5F7A00AB6F47 /* PushNotificationPayload.apns */,
 				7CC527AD2A3E531800AB6F47 /* Assets.xcassets */,
 				7CC527AF2A3E531800AB6F47 /* Preview Content */,
 			);
@@ -513,6 +516,7 @@
 				7CC527AE2A3E531800AB6F47 /* Assets.xcassets in Resources */,
 				7CC527BA2A3E552F00AB6F47 /* landmarkData.json in Resources */,
 				7CC527BE2A3E552F00AB6F47 /* Assets.xcassets in Resources */,
+				7CC527C82A3E5F7A00AB6F47 /* PushNotificationPayload.apns in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
